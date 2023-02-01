@@ -1,4 +1,4 @@
-# Visual Argo Workflows
+# Workflow
 
 <img width="1299" alt="Screen Shot 2022-02-17 at 12 20 07 PM" src="https://user-images.githubusercontent.com/849403/154455752-3bcf08f0-97d0-4c6b-9aae-0fda21b9a8ee.png">
 
